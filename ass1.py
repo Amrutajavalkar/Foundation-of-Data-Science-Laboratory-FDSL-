@@ -13,9 +13,6 @@ arr3=np.array([[[11,22,33],[44,55,66]],[[99,88,77],[14,15,16]]])
 print(arr3)
 
 print(np.shape(arr1))
-print(np.shape(arr2))
-print(np.shape(arr3))
 
-print(arr1.dtype)
 
 
